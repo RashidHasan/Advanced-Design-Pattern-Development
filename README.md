@@ -64,3 +64,9 @@ Only one administrator is allowed.
 Project Demonstrates a strong understanding of design patterns and the ability to select the pattern best suited to specific project requirements. It also displays analytical and critical thinking in selecting different design styles, emphasizing the ability to seamlessly integrate multiple design styles when necessary. The decisions are well justified, and the overall project displays exceptional problem-solving and design abilities.
 
 This project is a testament to your amazing abilities and reflects my accomplishments as a skilled designer. I did well!
+
+## Technologies:
+<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30"/> </a> 
+<a href="https://github.com/" title="GitHub"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+<a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code"></a>
+
