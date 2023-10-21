@@ -25,8 +25,8 @@ Layer chart:
 A class diagram depicts the relationship between classes, their properties, and their methods. This includes categories for your cart, items, payment methods, and user interactions.
 
 ### UML implementation:
-It is implemented in Java using Object-Oriented principles.
-Java classes for shopping carts, payment methods, and user interactions.
+- It is implemented in Java using Object-Oriented principles.
+- Java classes for shopping carts, payment methods, and user interactions.
 
 ![UML](https://github.com/RashidHasan/Advanced-Design-Pattern-Development/assets/136935583/84e0597a-9f90-4443-bc7a-2c2c9d8f32ec)
 
