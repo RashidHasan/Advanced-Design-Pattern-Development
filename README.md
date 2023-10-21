@@ -66,6 +66,8 @@ Project Demonstrates a strong understanding of design patterns and the ability t
 This project is a testament to your amazing abilities and reflects my accomplishments as a skilled designer. I did well!
 
 ## Technologies:
+<div >
+
 <table>
 
 <tr>
@@ -76,11 +78,11 @@ This project is a testament to your amazing abilities and reflects my accomplish
 
 <td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108890-200809d1-439c-4e23-90d3-b090cf9a4eea.png" alt="InteliJ" title="InteliJ"/></code></td>
 
-<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Visual Studio Code" title="Visual Studio Code"/></code></td>
-
 <td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Java" title="Java"/></code></td>
 
 </tr>
 
 </table>
+
+</div>
 
