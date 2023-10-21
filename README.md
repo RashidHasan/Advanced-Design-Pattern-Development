@@ -1,3 +1,4 @@
+![Screenshot (1126)](https://github.com/RashidHasan/Advanced-Design-Pattern-Development/assets/136935583/47a76e37-a29f-4710-8538-07c17e08c3fd)
 
 
 ## Project: Java E-Commerce Shopping Cart
