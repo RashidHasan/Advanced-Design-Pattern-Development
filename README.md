@@ -1,6 +1,9 @@
 
 
 ## Project: Java E-Commerce Shopping Cart
+![Screenshot (1125)](https://github.com/RashidHasan/Advanced-Design-Pattern-Development/assets/136935583/07494105-a2dd-4ae4-b49f-c7f1aad78fce)
+
+
 
 ## Project Description:
 
