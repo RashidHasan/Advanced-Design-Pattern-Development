@@ -1,13 +1,15 @@
 
 
 ## Project: Java E-Commerce Shopping Cart
-![Screenshot (1125)](https://github.com/RashidHasan/Advanced-Design-Pattern-Development/assets/136935583/07494105-a2dd-4ae4-b49f-c7f1aad78fce)
+
 
 
 
 ## Project Description:
 
 General Solution Global (GSG) is an international development company focused on creating innovative solutions. As a team leader, you are tasked with designing a shopping cart system in Java that allows users to add and remove items, calculate the total price of the shopping cart, and make payments using different methods. The project consists of two main tasks: shopping cart design and car rental system development.
+
+![Screenshot (1125)](https://github.com/RashidHasan/Advanced-Design-Pattern-Development/assets/136935583/07494105-a2dd-4ae4-b49f-c7f1aad78fce)
 
 ## Task 1: Design a shopping cart
 
