@@ -1,1 +1,58 @@
-# Advanced-Design-Pattern-Development
+
+
+## Project: Java E-Commerce Shopping Cart
+
+## Project Description:
+
+General Solution Global (GSG) is an international development company focused on creating innovative solutions. As a team leader, you are tasked with designing a shopping cart system in Java that allows users to add and remove items, calculate the total price of the shopping cart, and make payments using different methods. The project consists of two main tasks: shopping cart design and car rental system development.
+
+## Task 1: Design a shopping cart
+
+### Features and experience:
+
+The shopping cart allows users to add or remove items, with real-time price updates.
+Three payment methods are available: Credit Card, PayPal, and Bitcoin.
+Each payment method has its own entry requirements.
+Payment processing includes creating a receipt and filtering the shopping cart.
+If the payment credentials are incorrect, the payment will be declined.
+
+### Mission activities:
+Choose a design style:
+Design style of choice: object-oriented design
+Strengths: Provides modularity, reusability, and maintainability.
+Weaknesses: May involve more preliminary design work.
+Layer chart:
+A class diagram depicts the relationship between classes, their properties, and their methods. This includes categories for your cart, items, payment methods, and user interactions.
+
+### UML implementation:
+It is implemented in Java using Object-Oriented principles.
+Java classes for shopping cart, payment methods and user interactions.
+
+## Task 2: Object-oriented model and design patterns
+
+Three examples (creative, behavioral and constructional design patterns) were analyzed to display the relationship between the object-oriented model and design patterns.
+
+## Task 3: Design a car rental system
+
+### Features:
+Customers can rent sedans, SUVs or sports cars.
+Customers can customize vehicles with upgrades.
+The system accommodates future modifications.
+Multiple clients can log in simultaneously from different devices.
+Only one administrator is allowed.
+
+### Mission activities:
+- Choose a design style:
+- Chosen design style: Administrator Singleton style.
+- Cause: Ensures that there is only one instance of the Administrator class.
+
+### Compare design styles:
+- Object-oriented design vs. monolithic design.
+- Object-oriented design emphasizes modularity and reusability.
+- The Singleton design ensures a single global access point, but can be limiting in some cases.
+
+## Feedback
+
+Project Demonstrates a strong understanding of design patterns and the ability to select the pattern best suited to specific project requirements. It also displays analytical and critical thinking in selecting different design styles, emphasizing the ability to seamlessly integrate multiple design styles when necessary. The decisions made are well justified, and the overall project displays exceptional problem-solving and design abilities.
+
+This project is a testament to your amazing abilities, and reflects my accomplishments as a skilled designer. I did well!
