@@ -66,7 +66,7 @@ Project Demonstrates a strong understanding of design patterns and the ability t
 This project is a testament to your amazing abilities and reflects my accomplishments as a skilled designer. I did well!
 
 ## Technologies:
-<div >
+
 
 <table>
 
@@ -84,5 +84,5 @@ This project is a testament to your amazing abilities and reflects my accomplish
 
 </table>
 
-</div>
+
 
