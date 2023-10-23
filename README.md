@@ -66,6 +66,20 @@ Project Demonstrates a strong understanding of design patterns and the ability t
 
 This project is a testament to your amazing abilities and reflects my accomplishments as a skilled designer. I did well!
 
+# Ownership Notice
+
+This project, including all associated code, content, and assets, belongs to Rasheed Hassan. All rights reserved for this project. Unauthorized use, distribution, or reproduction of any part of this project is strictly prohibited, and the projects are provided solely for the purpose of providing benefits and compiling my experiences.
+
+## Important Alert
+By accessing or using this project, you agree to respect the proprietary rights of "Rashid Hassan". Any use outside the scope of the license or permission granted is subject to legal action.
+
+For inquiries or to request cooperation, please contact me via my email on the home page.
+
+Thank you for your understanding and cooperation.
+
+Rashid Hassan.
+
+
 ## Technologies:
 
 
